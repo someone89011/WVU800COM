@@ -1,0 +1,6 @@
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\obj\Release\WVU800COM.csproj.AssemblyReference.cache
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\obj\Release\WVU800COM.csproj.CoreCompileInputs.cache
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\bin\Release\WVU800DLL.dll
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\bin\Release\WVU800DLL.pdb
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\obj\Release\WVU800DLL.dll
+H:\Conferenlogic\WVCU800\Software\Serial version\V0.0\WVU800COM\WVU800COM\obj\Release\WVU800DLL.pdb
